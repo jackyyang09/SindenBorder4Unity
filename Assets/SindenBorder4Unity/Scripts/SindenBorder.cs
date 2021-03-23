@@ -92,7 +92,7 @@ namespace SindenUnity
 
         const string DEBUG_TITLE = "Sinden Border: ";
 
-        [SerializeField] [HideInInspector] Canvas parentCanvas = null;
+        [HideInInspector] Canvas parentCanvas = null;
 
         private void OnValidate()
         {

@@ -57,7 +57,7 @@ namespace SindenUnity
             }
         }
 
-        [MenuItem("GameObject/SindenBorder4Unity/BorderListener", false, 1)]
+        [MenuItem("GameObject/SindenBorder4Unity/BorderListener", false, 11)]
         public static void AddSindenBorder()
         {
             GameObject newObject = new GameObject("BorderListener");

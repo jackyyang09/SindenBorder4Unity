@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ade557531e1cbdc4abde26940840ba9c, type: 3}
   m_Name: Thin Border
   m_EditorClassIdentifier: 
-  width: 10
-  height: 10
-  uniformSize: 1
-  color: {r: 1, g: 1, b: 1, a: 1}
+  borderProperties:
+    widths: 10
+    height: 10
+    uniformSize: 1
+    color: {r: 1, g: 1, b: 1, a: 1}
